@@ -1,0 +1,18 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    background-color: #002366; /* Navy blue background */
+    color: white;
+  }
+  
+  .footer-logo-container {
+    margin-bottom: 20px;
+  }
+  
+  .footer-logo {
+    max-height: 70px; /* Adjust the size */
+  }
+  

@@ -1,0 +1,16 @@
+.home-container {
+    text-align: center; /* Center-align the text */
+    padding: 20px;
+  }
+  
+  .home-container h1 {
+    color: #333;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .home-container p {
+    color: #666;
+    font-size: 1.2rem;
+  }
+  
